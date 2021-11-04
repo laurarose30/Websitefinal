@@ -1,0 +1,49 @@
+body {
+  background-color: beige;
+  width: 100vw;
+  
+}
+
+.navbar a{
+  padding-left: 40px;
+  padding-right: 40px;
+  color: rgb(196, 17, 231);
+  text-decoration: none;
+  font-size: 17px;
+  
+
+ 
+
+
+}
+    
+
+
+ul li{
+  color: pink;
+}
+
+.headerRow {
+  background-color: rgb(179, 144, 179);
+  height: 30vh;
+}
+.contentRow {
+  background-color: white;
+  height: 70vh;
+}
+.footerRow {
+  background-color: blue;
+  height: 10vh;
+}
+
+.sideBar01 {
+  background-color: lightcoral;
+}
+.sideBar02 {
+  background-color: lightgoldenrodyellow;
+}
+
+.sidebarItem {
+  margin: 2%;
+  background-color: lightgoldenrodyellow;
+}
