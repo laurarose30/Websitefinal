@@ -28,19 +28,8 @@ ul li{
   color: pink;
 }
 
-.headerRow {
-  background-color: rgb(179, 144, 179);
-  height: 30vh;
-}
-.contentRow {
-  background-color: white;
-  height: 70vh;
-}
-.footerRow {
-  background-color: rgb(85, 85, 116);
-  height: 10vh;
-  
-}
+
+
 
 .sideBar01 {
   background-color: lightcoral;
